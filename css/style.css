@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(190, 19, 185);
+    height: 100dvh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container{
+    height: 50%;
+    background-color: rgb(242, 242, 246);
+    padding-top: 8px;
+}
